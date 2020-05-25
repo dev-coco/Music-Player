@@ -5,7 +5,7 @@ class ViewController: NSViewController {
     @IBOutlet weak var webView: WKWebView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        let web = URLRequest(url: URL(string: "https://www.holyspiritspeaks.org/hymns/")!)
+        let web = URLRequest(url: URL(string: "https://www.kingdomsalvation.org/songs.html")!)
         webView.load(web)
     }
     override func viewDidAppear() {
