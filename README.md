@@ -1,8 +1,8 @@
 # Music-Player
-Music player for Mac, the windows always on top.
+Mac音乐播放器，窗口置顶。
 
-[Home page](https://dev-coco.github.io/)
+[主页](https://dev-coco.github.io/)
 
-# Usage
-You can do other things, and set a small windows on the corner to listen music and look at the lyrics.
+# 使用方法
+Mac音乐播放器，窗口置顶。可以一边做其他的事情，然后设置一个小窗口放在角落听歌和看歌词。
 <img src="http://dev-coco.github.io/images/Music-Player-wiki/1.png" width="1000">
